@@ -1,0 +1,39 @@
+
+@import 'Dash/variables';
+@import 'Dash/mixins';
+
+@import "Dash/plugins/plugin-animate-bootstrap-notify";
+@import "Dash/plugins/plugin-perfect-scrollbar";
+
+@import "Dash/buttons";
+@import "Dash/inputs";
+@import "Dash/typography";
+@import "Dash/misc";
+@import "Dash/checkboxes-radio";
+
+
+@import "Dash/navbar";
+@import "Dash/page-header";
+@import "Dash/dropdown";
+@import "Dash/alerts";
+@import "Dash/images";
+@import "Dash/nucleo-outline";
+@import "Dash/tables";
+@import "Dash/sidebar-and-main-panel";
+@import "Dash/footers";
+@import "Dash/fixed-plugin";
+
+@import "Dash/cards";
+@import "Dash/cards/card-plain";
+@import "Dash/cards/card-chart";
+@import "Dash/cards/card-user";
+@import "Dash/cards/card-map";
+@import "Dash/cards/card-stats";
+
+@import "Dash/angular/plugin-ngx-toastr";
+@import "Dash/angular/sidebar-and-main-panel";
+@import "Dash/angular/dropdown";
+@import "Dash/angular/inputs";
+@import "Dash/angular/fixed-plugin";
+
+@import "Dash/responsive";
