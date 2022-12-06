@@ -5,3 +5,8 @@
 5. Then: `npm install`
 6. And: `ng serve --open`
 7. Navigate to: [http://localhost:4200/](http://localhost:4200/)
+
+![alt text](https://github.com/Gabriel9816/Dash1.0/blob/master/src/assets/img/print1.png)
+![alt text](https://github.com/Gabriel9816/Dash1.0/blob/master/src/assets/img/print2.png)
+![alt text](https://github.com/Gabriel9816/Dash1.0/blob/master/src/assets/img/print3.png)
+![alt text](https://github.com/Gabriel9816/Dash1.0/blob/master/src/assets/img/print4.png)
